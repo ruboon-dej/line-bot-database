@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@line/bot-sdk": "^7.4.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^3.0.0"
+  }
+}
